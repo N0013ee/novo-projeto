@@ -230,6 +230,15 @@ header nav a:hover{
     align-items: center;
 }
 
+fieldset{
+    font-size: 1em;
+    font-weight: bold;
+    color: #ffffff;
+    border: 3px solid red;
+    padding: 10px;
+    border-radius: 5px;
+}
+
 #Contato h2{
     padding: 20px;
 }
@@ -244,6 +253,7 @@ header nav a:hover{
     justify-content: center;
     align-items: center;
     color: white;
+    padding-bottom: 5px;
     
 }
 
@@ -290,7 +300,8 @@ header nav a:hover{
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
+    background-color: 0.3s ease;
+    transform: 0.2s ease;
 }
 footer{
     background-color: black;
