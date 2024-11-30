@@ -1,0 +1,10 @@
+Tag de ancoragem:
+sintaxe
+    <a href="index.html">Home</a>
+
+    a = ancoragem
+    href = atributo
+    "index.html" = caminho da pagina
+
+URL relativa = camonho do meu diretorio de origem (interno): index.html 
+URL absoluta = camonho completo (externo): ../index.html
