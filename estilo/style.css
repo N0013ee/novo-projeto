@@ -152,6 +152,7 @@ header nav a:hover{
 }
 
 .cns{
+    font-size: 2vmin;
     width: 80%;
     display: flex;
     flex-direction: row;
